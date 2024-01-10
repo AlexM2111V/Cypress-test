@@ -8,16 +8,15 @@ Make sure you have Node.js installed on your machine before getting started. The
 
  1.⁠ ⁠Clone this repository:
 
-   ⁠ bash
-   git clone https://github.com/AlexM2111V/Cypress-test.git
+   `git clone https://github.com/AlexM2111V/Cypress-test.git`
    
 2. Install the project   
 
-npm install
+`npm install`
 
 3. Run the test
 
-npm run cypress:open
+`npm run cypress:open`
 
 4. Select E2E testing then Start E2E testing in chrome
 
